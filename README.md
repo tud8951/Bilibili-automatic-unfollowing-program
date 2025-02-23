@@ -1,6 +1,6 @@
 # Bilibili自动取关程序
 
-本程序由B站Up主[BigJackson](https://www.runoob.com](https://space.bilibili.com/1549550569?spm_id_from=333.337.0.0) 制作并开源
+本程序由B站Up主[BigJackson](https://space.bilibili.com/1549550569?spm_id_from=333.337.0.0)制作并开源
 
 以下是一个基于Python的简单B站自动取关工具的实现思路。需要注意的是，此代码仅用于学习和研究目的，请确保遵守哔哩哔哩（B站）的相关用户协议和法律法规。
 
@@ -42,4 +42,4 @@ B站API有频率限制，请根据实际情况调整请求间隔或增加重试�
 
 ![BigJackson](/1.png)
 
-本程序由B站Up主[BigJackson](https://www.runoob.com](https://space.bilibili.com/1549550569?spm_id_from=333.337.0.0) 制作并开源
+本程序由B站Up主[BigJackson](https://space.bilibili.com/1549550569?spm_id_from=333.337.0.0)制作并开源
