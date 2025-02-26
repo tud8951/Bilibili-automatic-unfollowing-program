@@ -2,7 +2,7 @@
 
 本程序由B站Up主[BigJackson](https://space.bilibili.com/1549550569?spm_id_from=333.337.0.0)制作并开源
 
-[源代码](https://github.com/tud8951/Bilibili-automatic-unfollowing-program) [工具下载链接](https://github.com/tud8951/Bilibili-automatic-unfollowing-program)
+[源代码](https://github.com/tud8951/Bilibili-automatic-unfollowing-program) [工具下载链接](https://github.com/tud8951/Bilibili-automatic-unfollowing-program/releases/tag/v1.0.0)
 
 以下是一个基于Python的简单B站自动取关工具的实现思路。需要注意的是，此代码仅用于学习和研究目的，请确保遵守哔哩哔哩（B站）的相关用户协议和法律法规。
 
@@ -42,6 +42,6 @@ B站API有频率限制，请根据实际情况调整请求间隔或增加重试�
 日志输出：
 在取消关注时，明确打印“成功取消关注互关用户”。
 
-![BigJackson](/1.png)
+![BigJackson](https://bigjackson.us.kg/Bilibili-automatic-unfollowing-program/1.png)
 
 本程序由B站Up主[BigJackson](https://space.bilibili.com/1549550569?spm_id_from=333.337.0.0)制作并开源
